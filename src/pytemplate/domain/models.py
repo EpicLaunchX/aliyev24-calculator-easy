@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 
+
 @dataclass
-class Operand:
+class Operands:
     first_operand: int
     second_operand: int
-
